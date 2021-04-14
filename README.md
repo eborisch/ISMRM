@@ -1,1 +1,1 @@
-[ISMRM 2021 Sunrise Session](2021/Open-source.pdf)
+Access the [ISMRM 2021 Sunrise Session presentation here](2021/Open-source.pdf).
